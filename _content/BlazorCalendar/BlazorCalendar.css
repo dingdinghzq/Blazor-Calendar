@@ -28,6 +28,7 @@
     font-weight: 500;
     overflow: hidden;
     text-overflow: ellipsis;
+    background:#FFF;
 }
 
 .cellule-disabled {
@@ -209,7 +210,6 @@
     .monthly-day:nth-of-type(7n + 7) {
         grid-column: 7/7;
     }
-
 
 .monthly-day--disabled {
     color: rgba(#98a0a6, 0.6);
