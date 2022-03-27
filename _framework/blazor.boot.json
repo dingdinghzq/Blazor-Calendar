@@ -7,8 +7,8 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "BlazorCalendar.dll": "sha256-WEUWOsESRyC4BWcf5J2+CsZ7TZo5+qgAr0lARlI90bA=",
-      "BlazorWebAssembly.dll": "sha256-XSZ+YXXg4lmZ2trMurKDpsqPcJqRxADziEm8Tv+3dz4=",
+      "BlazorCalendar.dll": "sha256-o+CC+GCrjgf97ZEjZAhpDPgVR4MDiYLNMdsWIGLBGlk=",
+      "BlazorWebAssembly.dll": "sha256-kXqwC3Mi0V0ekFV5Ly44X1e4pR9PrvDj5qbjOISWN8M=",
       "Microsoft.AspNetCore.Components.dll": "sha256-xnBIgd4CsrdOAwpSAt\/V\/x\/w+Xk0iyLdhwlzgSLgPNQ=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-eglbKGZNkMwX\/2XvBmjB5lPelDQdy4Kz6iQQPMTEGWY=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-yUU\/mWWa82QWVsGQj6w\/j4ja+GJcNtYn9qS4hbsDCPU=",
