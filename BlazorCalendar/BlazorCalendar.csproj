@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk.Razor">
 
   <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
@@ -15,6 +15,7 @@
     <PackageReleaseNotes>https://github.com/tossnet/Blazor-Calendar#release-notes</PackageReleaseNotes>
     <Version>2.4.4</Version>
     <Authors>Christophe Peugnet</Authors>
+	<LangVersion>10.0</LangVersion>
   </PropertyGroup>
 
   <ItemGroup>
@@ -27,7 +28,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.Components.Web" Version="6.0.2" />
+    <PackageReference Include="Microsoft.AspNetCore.Components.Web" Version="3.1.27" />
   </ItemGroup>
 
   <ItemGroup>
